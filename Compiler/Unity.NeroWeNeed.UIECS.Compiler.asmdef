@@ -1,0 +1,31 @@
+{
+    "name": "Unity.NeroWeNeed.UIECS.Compiler",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:3d9288551f5f1b14b9fcbd11fd97a391",
+        "GUID:9c6dda6c7922c624cb7ea9a7f1c7d54a",
+        "GUID:b57ce993185199c48b21eb57cbaa047e",
+        "GUID:8587a886958cfa24d82d1d67479eb984",
+        "GUID:07ecad55a7336bf48ab59684de11b085",
+        "GUID:7a450cf7ca9694b5a8bfa3fd83ec635a",
+        "GUID:6a535584bcc1abc4b9c7b21f7587f1a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Mono.Cecil.dll",
+        "Mono.Cecil.Mdb.dll",
+        "Mono.Cecil.Pdb.dll",
+        "Mono.Cecil.Rocks.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

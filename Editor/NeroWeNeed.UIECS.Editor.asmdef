@@ -1,0 +1,53 @@
+{
+    "name": "NeroWeNeed.UIECS.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:07ecad55a7336bf48ab59684de11b085",
+        "GUID:4e4a10f31e908ca46a41e81cad616cbc",
+        "GUID:fedc6c8b80a7b2045ac2dc262bffc349",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:b75d3cd3037d383a8d1e2f9a26d73d8a",
+        "GUID:c38fb62397af04c51b143415e1db6d90",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:329b4ccd385744985bf3f83cfd77dfe7",
+        "GUID:e04e6c86a9f3947eb95fded39f9e60cc",
+        "GUID:64dd21a71f05646a89405b0ade11289b",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:44dcb2bf5b9be4b5aa76674c8edcd1d5",
+        "GUID:7a450cf7ca9694b5a8bfa3fd83ec635a",
+        "GUID:8587a886958cfa24d82d1d67479eb984",
+        "GUID:6a535584bcc1abc4b9c7b21f7587f1a4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Mono.Cecil.dll",
+        "Mono.Cecil.Mdb.dll",
+        "Mono.Cecil.Pdb.dll",
+        "Mono.Cecil.Rocks.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "",
+            "define": "ADDRESSABLES_EXIST"
+        },
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "INPUTSYSTEM_EXISTS"
+        }
+    ],
+    "noEngineReferences": false
+}
